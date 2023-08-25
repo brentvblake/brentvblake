@@ -1,10 +1,8 @@
-# Hey there! 👋 I'm Brent Blake
+# Brent Blake
 
-Passionate about coding and problem-solving, I'm a BSc Computer Science student with a knack for turning ideas into reality through programming. My journey has led me to explore a variety of languages including Python, C, C++, Dart, and Javascript. I've delved into diverse domains such as data analysis, web development, and software engineering.
+Final Year BSc Computer Science Student | Software Developer at IQ Telemetry Ltd
 
-## About Me
-
-📍 Walvis Bay, Namibia
+📍 Cape Town, South Africa
 
 📧 brent99blake@gmail.com
 
@@ -12,22 +10,28 @@ Passionate about coding and problem-solving, I'm a BSc Computer Science student 
 
 ---
 
-### What Drives Me
+### About Me
 
-I'm all about translating innovative concepts into efficient digital solutions. With a solid foundation in programming, I'm eager to take on challenges that push the boundaries of what technology can achieve. Whether it's crafting elegant code or dissecting complex data, I thrive on the journey of continuous learning.
+I am a Final Year BSc Computer Science student and Software Developer at IQ Telemetry Ltd. My focus is on translating complex problems into practical software solutions that create a tangible impact.
 
-### My Toolbox
+### Professional Focus
 
-- **Languages:** Python, C, C++, Javascript, Dart, Typescript
-- **Web Dev:** HTML, NodeJS, Django, Docker, React
-- **Data Crunching:** Pandas, Matplotlib, Seaborn, Scikit-learn
-- **App Development:** Flutter, React Native
-- **Cloud Tech:** AWS, Google Cloud
-- **Extras:** Electronics, Math, Technical Drawing, CAD
+👨‍💻 As a Software Developer at IQ Telemetry Ltd (Cape Town, SA), I have been involved in designing and implementing applications that enhance operational efficiency. Noteworthy projects include automating RFID card scanning, optimising work apparel access, and pioneering cashless payment kiosks for the laundry industry.
 
-### What's Next?
+📚 Currently in my final year at the University of London, I am immersed in advanced topics in machine learning and artificial intelligence, with an expected graduation in March 2024.
 
-I'm excited to collaborate on inspiring projects and contribute to cutting-edge solutions that make a real-world impact. Whether you're into data, development, or diving deep into algorithms, let's connect and explore the endless possibilities of technology together!
+### Skill Set
 
-Feel free to reach out—I'm always up for a chat or collaboration.
+- Proficient in: Python, C, C++, Javascript, Dart, Typescript
+- Web Technologies: HTML, NodeJS, Django, Docker, React
+- Data Analysis: Pandas, Matplotlib, Seaborn, Scikit-learn
+- Mobile App Development: Flutter, React Native
+
+### Reach Out
+
+My passion lies in using technology as a tool to solve intricate challenges. I'm open to connecting with individuals who share this enthusiasm, whether it's discussing programming, AI, or exploring potential collaborations. Feel free to get in touch.
+
+
+
+
 
