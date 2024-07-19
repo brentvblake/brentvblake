@@ -12,13 +12,13 @@ Final Year BSc Computer Science Student | Software Developer at IQ Telemetry Ltd
 
 ### About Me
 
-I am a Final Year BSc Computer Science student and Software Developer at IQ Telemetry Ltd. My focus is on translating complex problems into practical software solutions that create a tangible impact.
+I am a Software Engineer at IQ Telemetry Ltd, with a First-Class Honours in BSc Computer Science from the University of London. My focus is on translating complex problems into practical software solutions that create a tangible impact.
 
 ### Professional Focus
 
 👨‍💻 As a Software Developer at IQ Telemetry Ltd (Cape Town, SA), I have been involved in designing and implementing applications that enhance operational efficiency. Noteworthy projects include automating RFID card scanning, optimising work apparel access, and pioneering cashless payment kiosks for the laundry industry.
 
-📚 Currently in my final year at the University of London, I am immersed in advanced topics in machine learning and artificial intelligence, with an expected graduation in March 2024.
+📚 Graduating from the University of London in 2024 with a First Class Honors, I specialized in advanced topics in machine learning and artificial intelligence.
 
 ### Skill Set
 
