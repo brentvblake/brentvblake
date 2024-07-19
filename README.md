@@ -16,7 +16,7 @@ I am a Software Engineer at IQ Telemetry Ltd, with a First-Class Honours in BSc 
 
 ### Professional Focus
 
-👨‍💻 As a Software Developer at IQ Telemetry Ltd (Cape Town, SA), I have been involved in designing and implementing applications that enhance operational efficiency. Noteworthy projects include automating RFID card scanning, optimising work apparel access, and pioneering cashless payment kiosks for the laundry industry.
+👨‍💻 As a Software Engineer at IQ Telemetry Ltd (Cape Town, SA), I have been involved in designing and implementing applications that enhance operational efficiency. Noteworthy projects include automating RFID card scanning, optimising work apparel access, and pioneering cashless payment kiosks for the laundry industry.
 
 📚 Graduating from the University of London in 2024 with a First Class Honors, I specialized in advanced topics in machine learning and artificial intelligence.
 
