@@ -1,6 +1,6 @@
 # Brent Blake
 
-Final Year BSc Computer Science Student | Software Developer at IQ Telemetry Ltd
+Software Engineer at IQ Telemetry Ltd | BSc Computer Science (Machine Learning and AI) Graduate
 
 📍 Cape Town, South Africa
 
