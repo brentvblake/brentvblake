@@ -1,35 +1,38 @@
 # Brent Blake
-
-Software Engineer at IQ Telemetry Ltd | BSc Computer Science (Machine Learning and AI) Graduate
-
-📍 Cape Town, South Africa
-
+Software Engineer | BSc Computer Science (First-Class) | ML/AI Specialist
+📍 Derby, United Kingdom
 📧 brent99blake@gmail.com
-
-🌐 [LinkedIn](https://linkedin.com/in/brentvblake)
-
----
+🔗 [LinkedIn](https://linkedin.com/in/brentvblake)
 
 ### About Me
+First-Class Computer Science graduate specializing in Machine Learning and AI, with industry experience in full-stack development. Currently delivering scalable applications serving 5,000+ users across 225+ sites at IQ Telemetry Ltd.
 
-I am a Software Engineer at IQ Telemetry Ltd, with a First-Class Honours in BSc Computer Science from the University of London. My focus is on translating complex problems into practical software solutions that create a tangible impact.
+### Key Projects
+🏥 **Healthcare ML Projects**
+- Breast Cancer Masking Classification CNN (92% accuracy)
+- Heart Disease Prediction Model (88% accuracy, 0.94 AUC-ROC)
+- EpiSense: IoT Epilepsy Monitoring System (92.4% specificity)
 
-### Professional Focus
+💻 **Industrial Solutions**
+- Multi-payment kiosk system for 225+ laundry sites
+- Enterprise time & attendance platform (5,000+ users)
+- Solar plant monitoring with real-time visualization
+- Bluetooth-enabled PPE vending solution
 
-👨‍💻 As a Software Engineer at IQ Telemetry Ltd (Cape Town, SA), I have been involved in designing and implementing applications that enhance operational efficiency. Noteworthy projects include automating RFID card scanning, optimising work apparel access, and pioneering cashless payment kiosks for the laundry industry.
+### Technical Skills
+- **Languages:** Python, JavaScript/TypeScript, Dart, C/C++
+- **Frontend:** React, Flutter, React Native, HTML5/CSS3
+- **Backend:** Node.js, Flask, Django, REST APIs
+- **ML/AI:** TensorFlow, scikit-learn, OpenCV, Neural Networks
+- **DevOps:** AWS, Google Cloud, Docker, CI/CD, Git
 
-📚 Graduating from the University of London in 2024 with a First Class Honors, I specialized in advanced topics in machine learning and artificial intelligence.
+### Education
+- BSc Computer Science (First-Class Honours) - University of London
+  - Specialization: Machine Learning & AI (77% average)
+- BEng, Mechatronics Engineering - Stellenbosch University
 
-### Skill Set
-
-- Proficient in: Python, C, C++, Javascript, Dart, Typescript
-- Web Technologies: HTML, NodeJS, Django, Docker, React
-- Data Analysis: Pandas, Matplotlib, Seaborn, Scikit-learn
-- Mobile App Development: Flutter, React Native
-
-### Reach Out
-
-My passion lies in using technology as a tool to solve intricate challenges. I'm open to connecting with individuals who share this enthusiasm, whether it's discussing programming, AI, or exploring potential collaborations. Feel free to get in touch.
+### Connect
+Open to discussing opportunities in ML/AI, healthcare technology, and industrial automation. Feel free to reach out for collaborations or technical discussions.
 
 
 
