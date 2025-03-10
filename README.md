@@ -29,7 +29,6 @@ First-Class Computer Science graduate specializing in Machine Learning and AI, w
 ### Education
 - BSc Computer Science (First-Class Honours) - University of London
   - Specialization: Machine Learning & AI (77% average)
-- BEng, Mechatronics Engineering - Stellenbosch University
 
 ### Connect
 Open to discussing opportunities in ML/AI, healthcare technology, and industrial automation. Feel free to reach out for collaborations or technical discussions.
